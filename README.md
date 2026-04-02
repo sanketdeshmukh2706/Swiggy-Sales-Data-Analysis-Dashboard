@@ -50,7 +50,7 @@ The objective of this project is to perform data analysis on Swiggy sales data a
 
 ## 📷 Dashboard Preview
 
-![Swiggy Dashboard](Images/dashboard.png)
+[![Swiggy Dashboard](Images/dashboard.png)](https://github.com/sanketdeshmukh2706/Swiggy-Sales-Data-Analysis-Dashboard/blob/main/Dashboard%20image.jpeg)
 
 
 
